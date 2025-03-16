@@ -1,20 +1,20 @@
 ## QA_Intern
  SWAG 測試 | Selenium + Python | 測試帳號登入、註冊與錯誤處理
 
-## ○ 環境設置說明 
+## 環境設置說明 
 Python 3.9.12
 
-## ○ 運行測試的步驟 
+## 運行測試的步驟 
 1. 確保已經安裝 Python、Selenium 和 WebDriver。
 2. 執行測試腳本。
 3. 測試腳本將自動執行登入測試，並輸出測試結果。
 
-## ○ 使用的框架和工具說明 
-Selenium：用於自動化測試瀏覽器操作。
-Google Chrome & ChromeDriver：執行網頁操作的瀏覽器和相應的 WebDriver。
+## 使用的框架和工具說明 
+Selenium：用於自動化測試瀏覽器操作。  
+Google Chrome & ChromeDriver：執行網頁操作的瀏覽器和相應的 WebDriver。  
 Python 3：用於編寫測試腳本。
 
-##　○ 其他相關說明
+##　其他相關說明
 # 測試內容
 測試腳本包含以下測試場景：
 1. 不存在帳號測試：輸入不存在的帳號，驗證是否顯示相應錯誤提示。
